@@ -7,7 +7,7 @@ A modern sandbox project for experimenting with smart display UI components and 
 ## 🚀 Project Info
 
 - **GitHub Repo:** [AbduselamNur/skip-page-sandbox](https://github.com/AbduselamNur/skip-page-sandbox)
-- **Live URL:** _[]_
+- **Live URL:** [https://skip-page-sandbox.vercel.app/](https://skip-page-sandbox.vercel.app/)
 
 ---
 
