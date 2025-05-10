@@ -17,7 +17,6 @@ A modern sandbox project for experimenting with smart display UI components and 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev/)
 - [shadcn/ui](https://ui.shadcn.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
 
 ---
 
